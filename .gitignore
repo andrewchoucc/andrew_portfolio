@@ -1,0 +1,6 @@
+# Ignore the entire cache directory
+node_modules/.cache/
+# Ignore the main node dependency folder (always important)
+node_modules/
+# Ignore the build output folder
+dist/node_modules/.cache/
